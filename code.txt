@@ -1,0 +1,37 @@
+<!Docktype html>
+<html>
+<title> docker_io   </title>
+<head>   </head>
+<body>
+<p>
+this code for devops project , so mr ****** ......
+</p>
+<ul>
+<li>
+git_github
+</li>
+<li>
+maven_build
+</li>
+<li>
+sonarcube_codereview
+</li>
+<li>
+docker_containerization _image
+</li>
+<li>
+jenkins_CICD
+</li>
+ now  i don't know nothing ....sorry for that.........
+Kubernetes (often abbreviated as K8s) is an open-source container orchestration platform 
+<li>
+<li>
+terrafom
+</li>
+
+
+
+</ul>
+
+</body>
+</html>
